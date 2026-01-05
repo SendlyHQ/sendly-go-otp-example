@@ -25,7 +25,7 @@ A complete example demonstrating phone number verification using Sendly's Go SDK
 1. Clone or download this example:
 
 ```bash
-git clone https://github.com/sendly-examples/sendly-go-otp-example.git
+git clone https://github.com/SendlyHQ/sendly-go-otp-example.git
 cd sendly-go-otp-example
 ```
 
@@ -201,7 +201,7 @@ The application includes comprehensive error handling for:
 
 ## Learn More
 
-- [Sendly Documentation](https://docs.sendly.live)
+- [Sendly Documentation](https://sendly.live/docs)
 - [Sendly Go SDK](https://github.com/SendlyHQ/sendly-go)
 - [Go Documentation](https://golang.org/doc/)
 
