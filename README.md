@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=".github/header.svg" alt="Sendly Go OTP Example" />
+</p>
+
+
 # Sendly Go OTP Verification Example
 
 A complete example demonstrating phone number verification using Sendly's Go SDK. This example includes a web interface for sending and verifying OTP codes.
@@ -13,7 +18,7 @@ A complete example demonstrating phone number verification using Sendly's Go SDK
 ## Prerequisites
 
 - Go 1.21 or higher
-- A Sendly API key ([Get one here](https://sendly.io))
+- A Sendly API key ([Get one here](https://sendly.live))
 
 ## Installation
 
@@ -196,7 +201,7 @@ The application includes comprehensive error handling for:
 
 ## Learn More
 
-- [Sendly Documentation](https://docs.sendly.io)
+- [Sendly Documentation](https://docs.sendly.live)
 - [Sendly Go SDK](https://github.com/SendlyHQ/sendly-go)
 - [Go Documentation](https://golang.org/doc/)
 
@@ -208,5 +213,5 @@ This example is provided as-is for educational purposes.
 
 For issues related to:
 - This example: Open an issue in this repository
-- Sendly API: Contact [Sendly Support](https://sendly.io/support)
+- Sendly API: Contact [Sendly Support](https://sendly.live/support)
 - Go SDK: Visit the [Sendly Go SDK repository](https://github.com/SendlyHQ/sendly-go)
